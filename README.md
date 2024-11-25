@@ -52,8 +52,6 @@ Hi, 我是糖豆魚，是一名正在往全端開發為導向學習的學生，�
   
 [![My Skills](https://skillicons.dev/icons?i=windows,apple,ubuntu,linux)](https://skillicons.dev)
 
-
-
 ## 📈 Github 狀態
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PTDTW&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PTDTW&theme=dark)
@@ -62,3 +60,9 @@ Hi, 我是糖豆魚，是一名正在往全端開發為導向學習的學生，�
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ptdtw&theme=dark&show_icons=true&locale=en&layout=compact&hide=less" alt="ptdtw" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ptdtw&show_icons=true&theme=dark&locale=en" alt="ptdtw" /></p>
 </div>
+
+
+## 🎛️其他資訊
+- 訪客人數
+  
+![PTDTW](https://count.getloli.com/@ptdtw?name=ptdtw&theme=rule34&padding=8&offset=0&align=center&scale=1.3&pixelated=1)
