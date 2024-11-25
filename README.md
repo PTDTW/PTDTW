@@ -50,7 +50,7 @@ Hi, 我是糖豆魚，是一名正在往全端開發為導向學習的學生，�
 
 - 我使用的作業系統
   
-[![My Skills](https://skillicons.dev/icons?i=windows,apple,ubuntu,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,apple,ubuntu)](https://skillicons.dev)
 
 ## 📈 Github 狀態
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PTDTW&theme=dark)
