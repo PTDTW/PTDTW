@@ -34,10 +34,10 @@ Hi, 我是糖豆魚，是一名正在往全端開發為導向學習的學生，�
 [![My Skills](https://skillicons.dev/icons?i=vue,vuetify,vite,nuxtjs,discordjs,electron,nodejs,express)](https://skillicons.dev)
 - 我使用過的資料庫
   
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,cloudflare)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,sqlite)](https://skillicons.dev)
 - 我會使用的託管平台
   
-[![My Skills](https://skillicons.dev/icons?i=gcp,heroku,netlify,firebase,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=gcp,heroku,netlify,firebase,vercel,cloudflare)](https://skillicons.dev)
 
 ## 📱其他技能
 - 我使用過的工具
