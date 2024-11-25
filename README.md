@@ -62,7 +62,7 @@ Hi, 我是糖豆魚，是一名正在往全端開發為導向學習的學生，�
 </div>
 
 
-## 🎛️其他資訊
+## 🎛️ 其他資訊
 - 訪客人數
   
 ![PTDTW](https://count.getloli.com/@ptdtw?name=ptdtw&theme=rule34&padding=8&offset=0&align=center&scale=1.3&pixelated=1)
