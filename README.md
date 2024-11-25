@@ -1,5 +1,62 @@
-## Hi I'm  PTDTW
+# 嗨 👋, 大家好
+Hi, 我是糖豆魚，是一名正在往全端開發為導向學習的學生，在過程中我總喜歡認真對待每個遇到的錯誤並努力的解決他，這樣讓我很有成就感
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1017367319690887190)](https://discord.com/users/1017367319690887190)
+<div><a href="https://discord.gg/bAuKcwCqwX">
+        <img src="https://img.shields.io/badge/Discord群組-black?style=for-the-badge&logo=discord"
+            alt="Chat on Discord"></a>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,vuetify,vite,nuxtjs,cs,discordjs,dotnet,electron,jquery,md,nodejs,php,py,windows,apple,bash,blender,bootstrap,cloudflare,discord,bots,docker,eclipse,express,figma,firebase,gcp,github,gitlab,gmail,godot,heroku,instagram,mongodb,neovim,mysql,netlify,notion,npm,ps,phpstorm,postman,powershell,stackoverflow,sublime,vscode,wordpress,yarn,webpack,sqlite)](https://skillicons.dev)
+<a href="https://discord.com/users/1017367319690887190">
+        <img src="https://img.shields.io/badge/Discord個人檔案-black?style=for-the-badge&logo=discord"
+            alt="Chat on Discord"></a>
+            
+<a href="https://www.instagram.com/ptd.tw/">
+        <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram"
+            alt="Chat on Discord"></a>
+
+<a href="https://ptdtw.fun">
+        <img src="https://img.shields.io/badge/個人網站-27A3D9?style=for-the-badge"
+            alt="Chat on Discord"></a></div>
+
+## 📡 我的簡介
+- 🔭 我熱於嘗試新的事情與東西
+- 💪 勇於挑戰新的困難並解決他
+- ⭐️ 我喜歡尋找興趣相同的人
+- 📚 不斷的為自己繼續學習
+- 🌱 我正在繼續精熟 Nextjs, Typescript, Java
+- 🏆 佳句：很多時候 短暫的陣痛 才能換發新生
+
+## 💻 我在開發上的技能
+- 我的程式開發技能
+  
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,dotnet,jquery,md,php,py,bootstrap)](https://skillicons.dev)
+- 我的框架應用開發技能
+  
+[![My Skills](https://skillicons.dev/icons?i=vue,vuetify,vite,nuxtjs,discordjs,electron,nodejs,express)](https://skillicons.dev)
+- 我使用過的資料庫
+  
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,cloudflare)](https://skillicons.dev)
+- 我會使用的託管平台
+  
+[![My Skills](https://skillicons.dev/icons?i=gcp,heroku,netlify,firebase,vercel)](https://skillicons.dev)
+
+## 📱其他技能
+- 我使用過的工具
+  
+[![My Skills](https://skillicons.dev/icons?i=bash,docker,figma,ps,postman,powershell,npm,yarn,pnpm,webpack,vite,wordpress)](https://skillicons.dev)
+
+- 我的開發工具
+  
+[![My Skills](https://skillicons.dev/icons?i=phpstorm,eclipse,godot,sublime,vscode,visualstudio,neovim,vim)](https://skillicons.dev)
+
+- 我使用的作業系統
+  
+[![My Skills](https://skillicons.dev/icons?i=windows,apple,ubuntu,linux)](https://skillicons.dev)
+
+
+
+## 📈 Github 狀態
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ptdtw&theme=dark&show_icons=true&locale=en&layout=compact&hide=less" alt="ptdtw" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ptdtw&show_icons=true&theme=dark&locale=en" alt="ptdtw" /></p>
+
+<p></p>
