@@ -27,7 +27,7 @@ Hi, 我是糖豆魚，是一名正在往全端開發為導向學習的學生，�
 
 ## 💻 我在開發上的技能
 - 我的語言與程式開發技能（語言、程式基礎與支援技術）  
-- 
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,tailwind)](https://skillicons.dev)  
 
 [![My Skills](https://skillicons.dev/icons?i=php,py,cs,dotnet)](https://skillicons.dev)  
