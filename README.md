@@ -34,8 +34,6 @@ Hi, 我是糖豆魚，是一名正在往全端開發為導向學習的學生，�
 
 [![My Skills](https://skillicons.dev/icons?i=dart,swift)](https://skillicons.dev)  
 
-[![My Skills](https://skillicons.dev/icons?i=cs,py)](https://skillicons.dev)  
-
 [![My Skills](https://skillicons.dev/icons?i=md)](https://skillicons.dev)  
 
 
