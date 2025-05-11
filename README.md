@@ -26,12 +26,20 @@ Hi, 我是糖豆魚，是一名正在往全端開發為導向學習的學生，�
 - 🏆 佳句：很多時候 短暫的陣痛 才能換發新生
 
 ## 💻 我在開發上的技能
-- 我的語言開發技能
-  
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,dotnet,jquery,md,php,py,bootstrap,dart,swift)](https://skillicons.dev)
-- 我的框架應用開發技能
-  
-[![My Skills](https://skillicons.dev/icons?i=vue,react,vuetify,vite,nextjs,discordjs,electron,nodejs,express,flask,flutter)](https://skillicons.dev)
+- 我的語言與程式開發技能（語言、程式基礎與支援技術）
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,py,cs,dotnet)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,swift)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=md)](https://skillicons.dev)
+
+
+- 我的框架與應用開發技能（Library、Framework、Runtime 與平台整合）
+[![My Skills](https://skillicons.dev/icons?i=vue,react,vuetify,vite,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=electron,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discordjs)](https://skillicons.dev)
+
 - 我使用過的資料庫
   
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,sqlite)](https://skillicons.dev)
