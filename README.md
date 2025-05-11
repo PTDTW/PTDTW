@@ -28,10 +28,10 @@ Hi, 我是糖豆魚，是一名正在往全端開發為導向學習的學生，�
 ## 💻 我在開發上的技能
 - 我的程式開發技能
   
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,dotnet,jquery,md,php,py,bootstrap,flask,django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,dotnet,jquery,md,php,py,bootstrap,dart,swift)](https://skillicons.dev)
 - 我的框架應用開發技能
   
-[![My Skills](https://skillicons.dev/icons?i=vue,react,vuetify,vite,nextjs,discordjs,electron,nodejs,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,react,vuetify,vite,nextjs,discordjs,electron,nodejs,express,flask,django,flutter)](https://skillicons.dev)
 - 我使用過的資料庫
   
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,sqlite)](https://skillicons.dev)
