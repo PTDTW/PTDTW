@@ -13,7 +13,7 @@ Hi, 我是糖豆魚，是一名正在往全端開發為導向學習的學生，�
         <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram"
             alt="Chat on Discord"></a>
 
-<a href="https://ptdtw.fun">
+<a href="https://ptd.tw">
         <img src="https://img.shields.io/badge/個人網站-27A3D9?style=for-the-badge"
             alt="Chat on Discord"></a></div>
 
