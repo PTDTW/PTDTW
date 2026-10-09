@@ -12,9 +12,8 @@ Hi, I'm Perry Tang (唐禹平), a student exploring software development and edu
 ## Contact
 
 * Website: [ptd.tw](https://ptd.tw)
-* Instagram: [@ptd.tw](https://www.instagram.com/ptd.tw/)
+* Instagram: [@ptd.tw_](https://www.instagram.com/ptd.tw_/)
 * Discord: [個人檔案](https://discord.com/users/1017367319690887190)
-* Discord Community: [加入社群](https://discord.gg/bAuKcwCqwX)
 
 ---
 
